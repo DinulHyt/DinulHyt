@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my first website project
-- 🌱 I’m currently learning React and Laravel
+- 🔭 Currently working on my first website project
+- 🌱 Currently learning React and Laravel
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=DinulHyt&show_icons=true&bg_color=292929&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
