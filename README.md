@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DinulHyt&show_icons=true&bg_color=292929&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
 </div>
 
-- 📫 How to reach me:
+reach me:
 <a href="https://www.linkedin.com/in/dinul-hayat-865441294/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
